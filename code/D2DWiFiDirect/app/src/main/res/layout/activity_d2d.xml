@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><!--<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:layout_width="fill_parent"--><!--android:layout_height="fill_parent">-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+
+        <fragment
+            android:id="@+id/list"
+            class="br.com.ufop.daniel.d2dwifidirect.fragment.DeviceFragmentList"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.4">
+            <!-- Preview: layout=@layout/device_in_list -->
+        </fragment>
+
+        <fragment
+            android:id="@+id/element"
+            class="br.com.ufop.daniel.d2dwifidirect.fragment.DeviceFragment"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1">
+            <!-- Preview: layout=@layout/element -->
+        </fragment>
+    </LinearLayout>
+</LinearLayout><!--</ScrollView>-->

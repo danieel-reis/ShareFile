@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ShareFiles</string>
+    <string name="google_app_id">1065819923995-p1k4bgn96hv5ssflnidmphqgva7dec2b.apps.googleusercontent.com</string>
+
+    <string name="discover_peers_button">Search</string>
+    <string name="empty_folder_message">No files.</string>
+    <string name="shared_files">Share Files</string>
+    <string name="d2d">D2D</string>
+    <string name="d2d_description">Device Device</string>
+    <string name="local_server">Computer</string>
+    <string name="local_server_description">Local Server</string>
+    <string name="external_server">Google Drive</string>
+    <string name="external_server_description">External Server</string>
+
+    <string name="settings">Settings</string>
+    <string name="settings_description">Set Preferences</string>
+    <string name="received">Received</string>
+    <string name="received_description">Received Files</string>
+
+    <string name="settings_write_log">LOGs</string>
+    <string name="settings_enable_disable_write_log">Generating LOGs</string>
+    <string name="settings_file_received">Open</string>
+    <string name="settings_enable_disable_file_received">Automatic file opening</string>
+
+    <string name="connect_peer_button">Connect</string>
+    <string name="disconnect_peer_button">Disconnect</string>
+
+    <string name="send_peer_button">Send</string>
+    <string name="label_me">My device</string>
+    <string name="label_peers">Found devices</string>
+    <string name="empty_message">No device found. Click Search.</string>
+
+    <string name="image">Image</string>
+    <string name="image_description">Upload image</string>
+    <string name="video">Video</string>
+    <string name="video_description">Send Video</string>
+    <string name="document">Document</string>
+    <string name="document_description">Send PDF</string>
+    <string name="folder">Folder</string>
+    <string name="folder_description">Send all files</string>
+</resources>
+

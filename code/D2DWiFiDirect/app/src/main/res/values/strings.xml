@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ShareFiles</string>
+    <string name="google_app_id">1065819923995-p1k4bgn96hv5ssflnidmphqgva7dec2b.apps.googleusercontent.com</string>
+
+    <string name="discover_peers_button">Procurar</string>
+    <string name="empty_folder_message">Nenhum arquivo.</string>
+    <string name="shared_files">Compartilhe Arquivos</string>
+    <string name="d2d">D2D</string>
+    <string name="d2d_description">Dispositivo a Dispositivo</string>
+    <string name="local_server">Computador</string>
+    <string name="local_server_description">Servidor Local</string>
+    <string name="external_server">Google Drive</string>
+    <string name="external_server_description">Servidor Externo</string>
+
+    <string name="settings">Configurações</string>
+    <string name="settings_description">Definir Preferências</string>
+    <string name="received">Recebidos</string>
+    <string name="received_description">Arquivos Recebidos</string>
+
+    <string name="settings_write_log">LOGs</string>
+    <string name="settings_enable_disable_write_log">Geração de LOGs</string>
+    <string name="settings_file_received">Abrir</string>
+    <string name="settings_enable_disable_file_received">Abertura automática de arquivos</string>
+
+    <string name="connect_peer_button">Conectar</string>
+    <string name="disconnect_peer_button">Desconectar</string>
+
+    <string name="send_peer_button">Enviar</string>
+    <string name="label_me">Meu dispositivo</string>
+    <string name="label_peers">Dispositivos encontrados</string>
+    <string name="empty_message">Nenhum dispositivo encontrado. Clique em Pesquisar.</string>
+
+    <string name="image">Imagem</string>
+    <string name="image_description">Enviar imagem</string>
+    <string name="video">Vídeo</string>
+    <string name="video_description">Enviar Vídeo</string>
+    <string name="document">Documento</string>
+    <string name="document_description">Enviar PDF</string>
+    <string name="folder">Pasta</string>
+    <string name="folder_description">Enviar todos arquivos</string>
+</resources>
